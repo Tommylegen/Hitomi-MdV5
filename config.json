@@ -1,6 +1,6 @@
 global.autoread = true
   global.autorecording = false
-  global.autoketik = true
+  "global.autoketik = true"
   global.available = true
 
 { 
