@@ -1,9 +1,9 @@
-{ 
-  global.autoread = true
+global.autoread = true
   global.autorecording = false
   global.autoketik = true
   global.available = true
 
+{ 
   "ownerNumber": ["6289505054287@s.whatsapp.net"],
   "ownerName": ["Raja Dev"],
   "ownerNum": "6289505054287",
