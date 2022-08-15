@@ -1,4 +1,4 @@
-{ 
+{
   "ownerNumber": ["6289505054287@s.whatsapp.net"],
   "ownerName": ["Raja Dev"],
   "ownerNum": "6289505054287",
@@ -15,14 +15,14 @@
   "lolkey": "Beli Sendiri Ygy",
   "zenzkey": "4cb6451aa6",
   
-  "ButtonTextMenu1": "Youtube",
-  "ButtonTextMenu2": "Group",
+  "ButtonTextMenu1": "Youtube Owner",
+  "ButtonTextMenu2": "Rest Api",
   "quickReplyButton3": "List Menu 📑",
   "quickReplyButton4": "Donasi 💰",
   "quickReplyButton5": "Rate Bot ⭐",
    
   "ButtonMenuLink1": "https://youtube.com/channel/UCxVf6aARpoMp8w6vh9MKARQ",
-  "ButtonMenuLink2": "https://chat.whatsapp.com/Ju69dEfjyKn5P6j1Zohk9A",
+  "ButtonMenuLink2": "https://rest-api-hitomi.herokuapp.com/docs",
   "displayTextMenu3": "command",
   "displayTextMenu4": "donasi",
   "displayTextMenu5": "rating",
@@ -31,7 +31,7 @@
   "textBarisDonate1": "DANA : SCAN QRIS DIATAS",
   "textBarisDonate2": "OVO : SCAN QRIS DIATAS",
   "textBarisDonate3": "GOPAY : SCAN QRIS DIATAS",
-  "textBarisDonate4": "PULSA : 0895-0505-4287",
+  "textBarisDonate4": "PULSA : 0895-1281-0601",
   
   "randomlink": ["https://i.ibb.co/Ybbz3qm/b1511a60173f.jpg","https://i.ibb.co/gzx9tkF/e525998814c2.jpg","https://i.ibb.co/7t4ndRM/9d4d951fe9c8.jpg","https://i.ibb.co/61WQK7v/44d84e1d31fc.jpg"],
   "welcomenya": "Intro Dulu Yuk Kak\n\n\n📛 Nama : \n🔞 Umur :\n🏙️ Askot :\n👫 Gender :\n\nSemoga Kamu Senang Berada Disini Serta Jangan Lupa Untuk Membaca Dan Mematuhi Rules Yang Ada",
